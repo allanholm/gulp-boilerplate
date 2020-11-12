@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.scss"],"names":[],"mappings":"AAAA,KACE,OAAQ,EADV,QAGI,UAAW","file":"style.css","sourcesContent":["body {\r\n  margin: 0;\r\n  h1 {\r\n    font-size: 2em;\r\n  }\r\n}"]}
